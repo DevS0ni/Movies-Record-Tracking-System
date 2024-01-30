@@ -39,7 +39,7 @@ The project is organized into multiple files, promoting modularity and code sepa
 Namespaces (sdds) are used to encapsulate related functions and structures.
 This movie search and display system provides a simple and interactive way for users to explore a collection of top movies based on their genres.
 
-*How to RUN this project?
+*How to RUN this project?*
 ```
 Set up your development environment:
 Make sure you have a C++ compiler installed on your system. You can use an integrated development environment
