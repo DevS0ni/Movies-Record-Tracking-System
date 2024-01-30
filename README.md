@@ -4,6 +4,9 @@
 
 This project involves creating a movie search and display system that allows users to search for movies based on their genres. The system reads movie data from a file, stores it in an array of structures, and provides a user interface for searching and displaying movies based on user input.
 
+*TechStack:*
+- C++ (Object Oriented Approach) Programming Language
+
 *Main Program (w1p1.cpp):*
 The main function serves as the entry point of the program.
 It initializes an array of structures (Movie) to store movie information.
