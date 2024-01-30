@@ -68,8 +68,8 @@ The program will display relevant information about the movies that match the en
 
 Exit the program:
 When you are done exploring, choose to exit the program when prompted.
-Check for errors:
 
+Check for errors:
 If any errors occur during execution, review the error messages in the console or command line to identify and address the issues.
 Remember that the specific steps may vary based on the C++ IDE you are using.
 ```
